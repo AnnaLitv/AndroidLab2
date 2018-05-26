@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lab2Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="enter_a_string">Enter a string</string>
+    <string name="welcome_to_the_second_lab_app">Welcome to the second lab app</string>
+    <string name="to_app">To app</string>
+    <string name="exit">Exit</string>
+    <string name="welcome_to_labwork_2">Welcome to labwork 2</string>
+    <string name="fragments">Fragments</string>
+    <string-array name="sizeList">
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+    <string name="title_activity_string_sizer">StringSizerActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="back">Back</string>
+</resources>

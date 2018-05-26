@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">cancel</string>
+    <string name="OK">okay</string>
+    <string name="enter_a_string">Enter a string</string>
+    <string name="welcome_to_the_second_lab_app">Welcome to the third app</string>
+    <string name="back">back</string>
+    <string-array name="sizeList">
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+</resources>
